@@ -1,0 +1,8 @@
+{
+  "name": "Juragan Digital Class",
+  "description": "Sebuah pameran alat bertenaga AI untuk produktivitas digital, terinspirasi oleh desain Juragan Digital Showcase. Pengguna dapat menelusuri dan memfilter berbagai alat di berbagai kategori seperti menulis, riset, dan video.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
